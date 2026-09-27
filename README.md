@@ -1,3 +1,6 @@
+Code Demo: https://drive.google.com/file/d/1GSz6ETL_3i5qGxZSIu0ELOdqAeed-rHC/view?usp=drivesdk
+API Testing: https://drive.google.com/file/d/1oJ24ryJ0kgCR8lV4nv1yHm3HIiSRZb3E/view?usp=drivesdk
+
 # AI BlogNest API
 
 AI BlogNest API is a RESTful backend built with Node.js, Express, MongoDB, Mongoose, JWT authentication, bcrypt, and Gemini-powered AI content generation.
